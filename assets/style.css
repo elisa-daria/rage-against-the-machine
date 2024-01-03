@@ -12,8 +12,7 @@ body {
   color: rgb(203, 203, 196);
   padding: 1em;
   border-radius: 10px;
-  width: 95vw;
-  height: 320px;
+  height: 325px;
 }
 #main-banner h1 {
   font-weight: 700;
